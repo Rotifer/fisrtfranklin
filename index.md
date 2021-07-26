@@ -8,6 +8,9 @@
 
 ## enter text
 
+Learn how to use the Franklin.jl Package. Franklin.jl is a Static Site Generator written in Julia.
+In this coding tutorial, you'll learn how to use Franklin to build a custom static website and learn how to use GitHub Desktop to deploy your website onto GitHub Pages.
+
 ## render maths equations
 
 ## insert Julia code
